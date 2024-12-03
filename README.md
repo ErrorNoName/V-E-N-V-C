@@ -125,4 +125,3 @@ Ce projet est sous licence MIT. Consultez le fichier [LICENSE](./LICENSE) pour p
 
 **Auteur :** Ezio/ErrorNoName  
 **Dépôt :** [V-E-N-V-C](https://github.com/ErrorNoName/V-E-N-V-C)
-```
