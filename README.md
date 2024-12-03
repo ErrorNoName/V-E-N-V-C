@@ -1,4 +1,3 @@
-```markdown
 # Venv Manager - Gestionnaire d'Environnements Virtuels Python 🐍
 
 ![Logo](https://via.placeholder.com/728x90.png?text=Venv+Manager) <!-- Ajoutez un logo ici si souhaité -->
