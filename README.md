@@ -34,6 +34,9 @@ Pour installer ces outils (si nécessaire), exécutez :
 ```bash
 sudo apt update && sudo apt install python3 python3-pip dialog figlet pv -y
 ```
+```bash
+sudo pacman -Syu python python-pip dialog figlet pv --noconfirm
+```
 
 ### Installation du script
 Clonez le dépôt Git :
